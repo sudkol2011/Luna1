@@ -1,0 +1,29 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  body{
+    background-color: #ECDFCC;
+    text-align: center;
+  }
+  img{
+    height: 235px;
+    width: 275px;
+    
+  }
+  h1{
+    color: saddlebrown;
+  }
+  h3{
+    color: rosybrown
+  }
+  
+  button{
+    background-color: #E8C3A0;
+    color: #8C5D3B;
+    border-radius: 5px;
+    border: none;
+    padding: 25px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
